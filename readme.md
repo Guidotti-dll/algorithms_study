@@ -1,0 +1,1 @@
+## Estudos sobre algorítimo
